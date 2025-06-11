@@ -96,10 +96,10 @@ Contributions are welcome! Please:
 
 This README includes:
 
-1. **Professional Badges**: For quick visual identification
-2. **Clear Disclaimer**: Prominent educational use notice
-3. **Comprehensive Features**: Highlighting key capabilities
-4. **Structured Installation/Usage**: With code blocks
-5. **Visual Example**: Showing typical interaction
-6. **Project Organization**: Clear code structure
-7. **Contribution Guidelines**: For open-source development
+1. Professional Badges: For quick visual identification
+2. Clear Disclaimer: Prominent educational use notice
+3. Comprehensive Features: Highlighting key capabilities
+4. Structured Installation/Usage: With code blocks
+5. Visual Example: Showing typical interaction
+6. Project Organization: Clear code structure
+7. Contribution Guidelines: For open-source development
